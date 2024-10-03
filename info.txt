@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Michiel en Thibault zaten in een bus
 
 Oh what a wonderfull world
 
+=======
+Michiel en Tatum zaten in een bus
+K U S
+en ze gaven elkaar een dike handshake
+>>>>>>> 6fae2eedd65cb80724cd94e0266e4fa54ca07825
