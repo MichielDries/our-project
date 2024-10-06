@@ -6,5 +6,8 @@ Oh what a wonderfull world
 =======
 Michiel en Tatum zaten in een bus
 K U S
+<<<<<<< HEAD
 en ze gaven elkaar een dike deze slechte woorden worden geschreven enkel en  alleen door thibault soumoy.
->>>>>>> 6fae2eedd65cb80724cd94e0266e4fa54ca07825
+=======
+en ze gaven elkaar een baby
+
